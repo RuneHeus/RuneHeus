@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuneHeus
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development and PenTesting
 - 🌱 I’m currently learning Java, HTML, CSS, PHP, Arduino, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
