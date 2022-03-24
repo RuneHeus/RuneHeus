@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuneHeus
-- 👀 I’m interested in Software Development and PenTesting
-- 🌱 I’m currently learning Java, HTML, CSS, PHP, Arduino, JavaScript
+- 👀 I’m interested in Software Development and PenTesting/Ethical Hacking
+- 🌱 I’m currently learning Java, HTML, CSS, PHP, JavaScript, C#, C, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
